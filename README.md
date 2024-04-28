@@ -32,3 +32,5 @@ These are some of the tecnologies and languages I have worked with recently:
 ## 📊 Mostly used Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcionavas&layout=compact&theme=dracula)](https://github.com/marcionavas)
+
+![GitHub Contribution Snake Animation](https://raw.githubusercontent.com/marcionavas/marcionavas/main/contribution-snake.svg)
