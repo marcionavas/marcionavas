@@ -36,4 +36,4 @@ These are some of the tecnologies and languages I have worked with recently:
 
 ## 📊 Snake Eating My contributions
 
-![snake gif](https://github.com/marcionavas/marcionavas/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/marcionavas/marcionavas/blob/output/github-contribution-grid-snake.svg)
