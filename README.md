@@ -33,4 +33,4 @@ These are some of the tecnologies and languages I have worked with recently:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcionavas&layout=compact&theme=dracula)](https://github.com/marcionavas)
 
-![gitartwork](gitartwork.svg)
+![snake gif](https://github.com/marcionavas/marcionavas/blob/output/github-contribution-grid-snake.gif)
