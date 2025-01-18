@@ -1,13 +1,17 @@
 # Hello, World! 👋 I'm Marcio M. Navas Filho
 
 Welcome to my GitHub! Here are some of the projects I'm currently working on! Hope You enjoy!
+
 ## 📫 Get in Touch
 
 <a href="https://www.instagram.com/navas.tech" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="mailto:marcioskemp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="linkedin.com/in/marcio-navas-filho-000668b8" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+<a href="linkedin.com/in/marcio-navas-filho-000668b8" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
 ## 🚀 Languages and Technologies
+
 These are some of the tecnologies and languages I have worked with recently:
+
 <div style="display: inline_block"><br>
   <img align="center" alt="JAVA" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg">
   <img align="center" alt="SPRING" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg">
@@ -32,17 +36,16 @@ These are some of the tecnologies and languages I have worked with recently:
   <img align="center" alt="Kanban" height="40" src="https://cdn-icons-png.flaticon.com/512/4727/4727387.png">
 </div>
 
-
 ## 📊 Mostly used Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcionavas&layout=compact&theme=dracula)](https://github.com/marcionavas)
 
+![snake gif](https://github.com/marcionavas/marcionavas/blob/output/github-snake-dark.svg)
 
 <!-- ## 🎨 Contribuições no GitHub
 
- <picture> 
+ <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marcionavas/marcionavas/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marcionavas/marcionavas/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/marcionavas/marcionavas/output/github-contribution-grid-snake.svg">
 </picture> -->
-
