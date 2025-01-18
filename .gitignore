@@ -1,8 +1,0 @@
-# Node.js
-node_modules/
-
-# Arquivos de Saída
-languages-output.md
-
-# Outros arquivos específicos
-.env
